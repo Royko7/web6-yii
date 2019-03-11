@@ -1,0 +1,4 @@
+2019-02-27 10:08:30 [127.0.0.1][-][mnhjnj9vkd1n1mthtqn5k1thfs][info][] test message
+    in /var/www/html/web6-yii.com/controllers/SiteController.php:14
+2019-02-27 10:08:31 [127.0.0.1][-][mnhjnj9vkd1n1mthtqn5k1thfs][info][] test message
+    in /var/www/html/web6-yii.com/controllers/SiteController.php:14
